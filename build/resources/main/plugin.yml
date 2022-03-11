@@ -1,0 +1,11 @@
+name: OneHeart
+main: com.nelson131.oneheart.OneHeart
+api-version: 1.18
+version: 1.0.0
+description: Plugin to make one heart hardcore on ur spigot server
+author: nelson131
+website: github.com/nelson131
+commands:
+  hearts:
+    description: main plugin`s commands
+    usage: /hearts <on>
